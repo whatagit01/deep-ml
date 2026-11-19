@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:20:40.132Z",
+  "generated_at": "2026-11-19T15:20:44.521Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/problems/116",
       "path": "problems/0116-derivative-of-a-polynomial",
       "first_solved_at": "2026-11-19T15:20:34.463Z",
-      "last_pushed_at": "2026-11-19T15:20:34.463Z",
+      "last_pushed_at": "2026-11-19T15:20:43.519Z",
       "language": "python",
       "lines": 5
     }
